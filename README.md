@@ -1,5 +1,5 @@
-# react-native-app-mine-fields
-This is a simples mine field game developed in react-native its simples but its fun :)
+# react-native-app-navigation
+This is a simples app with navigation samples
 
 __________
 Download this app
