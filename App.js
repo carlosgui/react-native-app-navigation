@@ -9,9 +9,9 @@ export default function App() {
   return (
     <SafeAreaView style={{flex:1}}>
       <NavigationContainer>
-        <Drawer />
+        {/* <Drawer /> */}
         {/* <Stack /> */}
-        {/* <Tab /> */}
+        <Tab />
       </NavigationContainer>
     </SafeAreaView>
   );
